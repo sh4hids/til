@@ -55,7 +55,7 @@ img {
 
 @supports (aspect-ratio: 1 / 1) {
   .aspect-box-new {
-    /* Styles for browsers that support aspect-ratio */
+    /* Styles for browsers that support aspect-ratio (width/height) */
     aspect-ratio: 16/ 9;
     background: lightblue;
     width: 320px;
