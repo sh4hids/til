@@ -4,3 +4,5 @@ Short notes I have taken over the time, inspired by [@jbranchaud](https://github
 
 - [aws](/aws)
 - [CSS](/css)
+- [Jest](/jest)
+- [TypeScript](/typescript)
