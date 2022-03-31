@@ -13,7 +13,6 @@ spy.mockResolvedValue(45);
 
 ```js
 //jest.config.js
-
 {
   ...otherConfig,
   setupFilesAfterEnv: ['<rootDir>src/test-utils/setupTests.js']
